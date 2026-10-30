@@ -1,0 +1,10 @@
+{
+  "turboprop": {"min": 2000, "max": 2300, "mid": 2150},
+  "very_light_jet": {"min": 2750, "max": 3500, "mid": 3125},
+  "light_jet": {"min": 2900, "max": 3600, "mid": 3250},
+  "midsize_jet": {"min": 4300, "max": 4800, "mid": 4550},
+  "super_midsize": {"min": 5100, "max": 6500, "mid": 5800},
+  "heavy_jet": {"min": 7200, "max": 9500, "mid": 8350},
+  "ultra_long_range": {"min": 10000, "max": 14000, "mid": 12000},
+  "vip_airliner": {"min": 16000, "max": 23000, "mid": 19500}
+}

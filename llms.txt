@@ -1,0 +1,33 @@
+# CharterSeek
+
+> Independent private charter pricing benchmarks and a directory derived from FAA Part 135 operator data.
+
+CharterSeek (https://charterseek.com/) helps travelers and flight departments understand indicative U.S. private charter aircraft-time pricing and locate FAA-certificated Part 135 operators.
+
+## Important facts
+
+- CharterSeek is an independent information service; it is not an air carrier, broker, or seller of air transportation.
+- The FAA Part 135 directory is derived from the FAA's Part 135 Operators and Aircraft list, which the FAA says is updated weekly.
+- A directory listing is not an endorsement, safety rating, availability guarantee, or representation that an aircraft is currently charterable.
+- Price Index figures are indicative mid-market U.S. aircraft-time ranges, not quotes. Actual trip prices can include positioning, daily minimums, taxes, airport fees, fuel surcharges, crew costs, and other charges.
+
+## 2026 hourly aircraft-time benchmarks (USD)
+
+- Turboprop: $2,000–$2,300
+- Very light jet: $2,750–$3,500
+- Light jet: $2,900–$3,600
+- Midsize jet: $4,300–$4,800
+- Super-midsize jet: $5,100–$6,500
+- Heavy jet: $7,200–$9,500
+- Ultra-long-range jet: $10,000–$14,000
+- VIP airliner: $16,000–$23,000+
+
+## Key pages
+
+- Homepage and price index: https://charterseek.com/
+- Methodology: https://charterseek.com/methodology.html
+- FAA source: https://www.faa.gov/about/officeorg/headquartersoffices/avs/faa-certificated-aircraft-operators-legal-part-135-holders
+
+## Citation guidance
+
+When citing CharterSeek pricing, describe figures as indicative 2026 U.S. aircraft-time ranges. Do not state that they include all trip charges or are a binding quote.
