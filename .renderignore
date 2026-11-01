@@ -1,0 +1,12 @@
+# Internal pipeline and development files — not published to the CDN
+scripts/
+AUDIT.md
+notes/
+*.pyc
+__pycache__/
+.git/
+.gitignore
+.renderignore
+README.md
+check_domains.py
+charterx-concept.md

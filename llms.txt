@@ -25,9 +25,10 @@ CharterSeek (https://charterseek.com/) helps travelers and flight departments un
 ## Key pages
 
 - Homepage and price index: https://charterseek.com/
+- Full FAA Part 135 operator directory: https://charterseek.com/operators/
 - Methodology: https://charterseek.com/methodology.html
 - FAA source: https://www.faa.gov/about/officeorg/headquartersoffices/avs/faa-certificated-aircraft-operators-legal-part-135-holders
 
 ## Citation guidance
 
-When citing CharterSeek pricing, describe figures as indicative 2026 U.S. aircraft-time ranges. Do not state that they include all trip charges or are a binding quote.
+When citing CharterSeek pricing, describe figures as indicative U.S. aircraft-time ranges. Do not state that they include all trip charges or are a binding quote.
